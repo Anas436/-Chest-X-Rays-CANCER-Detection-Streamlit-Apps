@@ -47,7 +47,7 @@ def contributors_page():
                             <th width="20%" style="font-size: 140%;" colspan="3">Contributors</th>
                         </tr>
                         <tr>
-                            <td width="20%">Md. Anas Mondol</td>
+                            <td width="20%"><b>Md. Anas Mondol</b></td>
                             <td width="20%">Amyr Edmar Francisco</td>
                             <td width="20%">Aya Nabil</td>
                         </tr>
@@ -68,7 +68,7 @@ def contributors_page():
                         </tr>
                         <tr>
                             <td width="20%">Marco Antonio Chacon Amaro</td>
-                            <td width="20%">Md. Anas Mondol Mondol</td>
+                            <td width="20%">Alpha Lossangoyi Nanga</td>
                             <td width="20%">Melania Abrahamian</td>
                         </tr>
                         <tr>
