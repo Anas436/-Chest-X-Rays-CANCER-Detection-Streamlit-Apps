@@ -41,7 +41,7 @@ streamlit run main.py
 Once the application is running, you can access it through your web browser. Under the models section the user will be asked to upload the chest x-ray image. After providing the required inputs, click the "Predict" button to obtain the predicted diagnosis result.
 
 ## Demo Video
-Here's a video of me demonstrating this web application, [link](https://youtu.be/QOqRXhc-eL0)
+Here's a video of demonstrating this web application, [link](https://youtu.be/QOqRXhc-eL0)
 
 ## Acknowledgments
 
